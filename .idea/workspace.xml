@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2eb2ef5d-2bbe-4279-b834-63513ac038c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MachineLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/luve.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Hello,Machine Learning-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello,Machine Learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/03 train-test-split-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/04-分类准确度-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/05-超参数-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/06-网格搜索-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/07-数据归一化处理-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/08-sklearn中的Scaler-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/kNN-in-Scikit-Learn-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/knn基础-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/03 train-test-split.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/04-分类准确度.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/05-超参数.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/06-网格搜索.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/07-数据归一化处理.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/08-sklearn中的Scaler.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/kNN-in-Scikit-Learn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/kNN_function/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/kNN_function/kNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/kNN_function/kNN_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/kNN_function/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/kNN_function/model_selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/kNN_function/preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kNN/knn基础.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/线性回归算法/.ipynb_checkpoints/03-实现简单线性回归算法-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/线性回归算法/03-实现简单线性回归算法.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/线性回归算法/SimpleLinearRegression.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mYjmgR5zV1gT2uUKxB6yVQc4Zr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Python.model_selection">
+    <configuration name="kNN_final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kNN_function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kNN_function/kNN_final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_selection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kNN/kNN_function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kNN/kNN_function/model_selection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.model_selection" />
+        <item itemvalue="Python.kNN_final" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eb2ef5d-2bbe-4279-b834-63513ac038c0" name="Default Changelist" comment="" />
+      <created>1609677578412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609677578412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609677664722">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="0" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1609677664722" />
+    <state x="93" y="93" width="1181" height="685" maximized="true" key="DiffContextDialog" timestamp="1610179501804">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="93" y="93" width="1181" height="685" maximized="true" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1610179501804" />
+    <state width="674" height="150" key="GridCell.Tab.0.bottom" timestamp="1610293901779">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="674" height="150" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1610293901779" />
+    <state width="674" height="150" key="GridCell.Tab.0.center" timestamp="1610293901779">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="674" height="150" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1610293901779" />
+    <state width="674" height="150" key="GridCell.Tab.0.left" timestamp="1610293901779">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="674" height="150" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1610293901779" />
+    <state width="674" height="150" key="GridCell.Tab.0.right" timestamp="1610293901779">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="674" height="150" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1610293901779" />
+    <state x="0" y="47" key="SettingsEditor" timestamp="1610027892468">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="0" y="47" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1610027892468" />
+    <state x="16" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1610379474108">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="16" y="242" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1610379474108" />
+    <state x="451" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1610378962742">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="451" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1610378962742" />
+  </component>
+</project>

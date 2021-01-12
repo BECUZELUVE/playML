@@ -2,42 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eb2ef5d-2bbe-4279-b834-63513ac038c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MachineLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/luve.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Hello,Machine Learning-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello,Machine Learning.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/03 train-test-split-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/04-分类准确度-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/05-超参数-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/06-网格搜索-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/07-数据归一化处理-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/08-sklearn中的Scaler-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/kNN-in-Scikit-Learn-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/.ipynb_checkpoints/knn基础-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/03 train-test-split.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/04-分类准确度.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/05-超参数.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/06-网格搜索.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/07-数据归一化处理.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/08-sklearn中的Scaler.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/kNN-in-Scikit-Learn.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/kNN_function/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/kNN_function/kNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/kNN_function/kNN_final.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/kNN_function/metrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/kNN_function/model_selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/kNN_function/preprocessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kNN/knn基础.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/线性回归算法/.ipynb_checkpoints/03-实现简单线性回归算法-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/线性回归算法/03-实现简单线性回归算法.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/线性回归算法/SimpleLinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性回归算法/03-实现简单线性回归算法.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/线性回归算法/03-实现简单线性回归算法.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性回归算法/SimpleLinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/线性回归算法/SimpleLinearRegression.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +30,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/线性回归算法" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\codemao\Documents\python学习\mooc\playML\线性回归算法" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.model_selection">
     <configuration name="kNN_final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -138,6 +110,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -180,6 +164,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="0" y="47" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1610027892468" />
+    <state x="757" y="365" key="VCS.ChangelistChooser" timestamp="1610420410879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="757" y="365" key="VCS.ChangelistChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1610420410879" />
     <state x="16" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1610379474108">
       <screen x="0" y="0" width="1368" height="872" />
     </state>

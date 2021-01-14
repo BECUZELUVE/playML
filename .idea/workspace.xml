@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eb2ef5d-2bbe-4279-b834-63513ac038c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/线性回归算法/.ipynb_checkpoints/03-实现简单线性回归算法-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/线性回归算法/.ipynb_checkpoints/05-衡量回归算法的标准-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/线性回归算法/03-实现简单线性回归算法.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/线性回归算法/05-衡量回归算法的标准.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/线性回归算法/SimpleLinearRegression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/线性回归算法/metrics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/线性回归算法/model_selection.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,10 +171,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="757" y="365" key="VCS.ChangelistChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1610420410879" />
-    <state x="16" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1610379474108">
+    <state x="16" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1610637029868">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="16" y="242" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1610379474108" />
+    <state x="16" y="242" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1610637029868" />
     <state x="506" y="182" width="755" height="641" key="search.everywhere.popup" timestamp="1610594822067">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eb2ef5d-2bbe-4279-b834-63513ac038c0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/线性回归算法/03-实现简单线性回归算法.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/线性回归算法/03-实现简单线性回归算法.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/线性回归算法/SimpleLinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/线性回归算法/SimpleLinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性回归算法/.ipynb_checkpoints/03-实现简单线性回归算法-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性回归算法/.ipynb_checkpoints/05-衡量回归算法的标准-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性回归算法/03-实现简单线性回归算法.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性回归算法/05-衡量回归算法的标准.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性回归算法/SimpleLinearRegression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性回归算法/metrics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性回归算法/model_selection.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +38,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/线性回归算法" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\codemao\Documents\python学习\mooc\playML\线性回归算法" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.model_selection">
+  <component name="RunManager" selected="Python.test">
     <configuration name="kNN_final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,9 +111,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.model_selection" />
         <item itemvalue="Python.kNN_final" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -144,25 +151,30 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="93" y="93" width="1181" height="685" maximized="true" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1610179501804" />
-    <state width="674" height="150" key="GridCell.Tab.0.bottom" timestamp="1610293901779">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="909" height="156" key="GridCell.Tab.0.bottom" timestamp="1610623200550">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="909" height="156" key="GridCell.Tab.0.bottom/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610623200550" />
     <state width="674" height="150" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1610293901779" />
-    <state width="674" height="150" key="GridCell.Tab.0.center" timestamp="1610293901779">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="909" height="156" key="GridCell.Tab.0.center" timestamp="1610623200550">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="909" height="156" key="GridCell.Tab.0.center/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610623200550" />
     <state width="674" height="150" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1610293901779" />
-    <state width="674" height="150" key="GridCell.Tab.0.left" timestamp="1610293901779">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="909" height="156" key="GridCell.Tab.0.left" timestamp="1610623200542">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="909" height="156" key="GridCell.Tab.0.left/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610623200542" />
     <state width="674" height="150" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1610293901779" />
-    <state width="674" height="150" key="GridCell.Tab.0.right" timestamp="1610293901779">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="909" height="156" key="GridCell.Tab.0.right" timestamp="1610623200550">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="909" height="156" key="GridCell.Tab.0.right/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610623200550" />
     <state width="674" height="150" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1610293901779" />
-    <state x="0" y="47" key="SettingsEditor" timestamp="1610027892468">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="0" y="44" key="SettingsEditor" timestamp="1610594569529">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="0" y="44" key="SettingsEditor/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610594569529" />
     <state x="0" y="47" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1610027892468" />
     <state x="757" y="365" key="VCS.ChangelistChooser" timestamp="1610420410879">
       <screen x="0" y="0" width="1536" height="824" />
@@ -172,9 +184,14 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="16" y="242" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1610379474108" />
-    <state x="451" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1610378962742">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="506" y="182" width="755" height="641" key="search.everywhere.popup" timestamp="1610594822067">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="506" y="182" width="755" height="641" key="search.everywhere.popup/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610594822067" />
     <state x="451" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1610378962742" />
+    <state x="467" y="340" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1610606675649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="340" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610606675649" />
   </component>
 </project>
